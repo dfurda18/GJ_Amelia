@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Stage
   layers:
   - Default
   - TransparentFX
@@ -11,7 +12,7 @@ TagManager:
   - Player
   - Water
   - UI
-  - 
+  - Background
   - 
   - 
   - 
@@ -43,6 +44,9 @@ TagManager:
     locked: 0
   - name: Background
     uniqueID: 3755021893
+    locked: 0
+  - name: BackgroundFront
+    uniqueID: 821225233
     locked: 0
   - name: Player
     uniqueID: 3782083023
