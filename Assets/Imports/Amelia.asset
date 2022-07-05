@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 819987e1edc943b4fa1b1fbb06080c5b, type: 3}
   m_Name: Amelia
   m_EditorClassIdentifier: 
-  HarmonyXMLProjectPath: D:/Documentos/NBCC/GameJams/2022Summer/Development/brazo4
-  OutputPath: Assets/Imports/Amelia/Brazo/AmeliaProject.asset
+  HarmonyXMLProjectPath: D:/Documentos/NBCC/GameJams/2022Summer/Development/Amelia
+  OutputPath: Assets/Imports/Amelia/AmeliaProject.asset
   GeneratePrefab: 1
-  ExistingPrefab: {fileID: 3245044512026447688, guid: 84e869ce3fa65b4469bb3f15514cac12, type: 3}
+  ExistingPrefab: {fileID: 909185860005092446, guid: 2bd65a79cfc9b504e9f49b87fceaccfb, type: 3}
   AnimationSettings:
     FrameRate: 30
     Stepped: 1
